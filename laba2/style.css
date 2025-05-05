@@ -1,20 +1,20 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    text-align: left; /* Змінено на left для вирівнювання тексту body зліва */
+    text-align: left; 
     background: #fff;
   }
   
   .container {
     width: 1280px;
     margin: 0 auto;
-    text-align: left; /* Залишено left, оскільки контент всередині контейнера має бути вирівняний зліва */
+    text-align: left; 
   }
   
   .logo {
     font-size: 32px;
     padding: 20px 0;
-    text-align: left; /* Змінено на left для вирівнювання тексту логотипу зліва */
+    text-align: left; 
   }
   
   .logo a {
